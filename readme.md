@@ -1,7 +1,7 @@
 # System Monitor
 
 A simple terminal-based system monitor built with Python, [psutil](https://pypi.org/project/psutil/), and [rich](https://pypi.org/project/rich/).  
-It displays real-time CPU, memory, disk, and network usage in a live-updating table.
+It displays real-time CPU, memory, disk, and network usage in a live-updating table(1 min Intervals)
 
 ## Features
 
