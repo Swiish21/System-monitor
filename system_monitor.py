@@ -1,5 +1,5 @@
-import time
-import psutil
+import time #to check system time and date
+import psutil #utility to scan specified systems stats
 
 from rich.console import Console
 from rich.table import Table
